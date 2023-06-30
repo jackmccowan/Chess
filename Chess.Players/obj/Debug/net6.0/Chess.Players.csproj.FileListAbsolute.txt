@@ -1,0 +1,15 @@
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.Players/bin/Debug/net6.0/Chess.Players.deps.json
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.Players/bin/Debug/net6.0/Chess.Players.dll
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.Players/bin/Debug/net6.0/Chess.Players.pdb
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.Players/bin/Debug/net6.0/Chess.GamePlay.dll
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.Players/bin/Debug/net6.0/Chess.GamePlay.pdb
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.Players/obj/Debug/net6.0/Chess.Players.csproj.AssemblyReference.cache
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.Players/obj/Debug/net6.0/Chess.Players.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.Players/obj/Debug/net6.0/Chess.Players.AssemblyInfoInputs.cache
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.Players/obj/Debug/net6.0/Chess.Players.AssemblyInfo.cs
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.Players/obj/Debug/net6.0/Chess.Players.csproj.CoreCompileInputs.cache
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.Players/obj/Debug/net6.0/Chess.Players.csproj.CopyComplete
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.Players/obj/Debug/net6.0/Chess.Players.dll
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.Players/obj/Debug/net6.0/refint/Chess.Players.dll
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.Players/obj/Debug/net6.0/Chess.Players.pdb
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.Players/obj/Debug/net6.0/ref/Chess.Players.dll

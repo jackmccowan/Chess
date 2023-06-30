@@ -1,0 +1,12 @@
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.GamePlay/bin/Debug/net6.0/Chess.GamePlay.deps.json
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.GamePlay/bin/Debug/net6.0/Chess.GamePlay.dll
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.GamePlay/bin/Debug/net6.0/Chess.GamePlay.pdb
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.GamePlay/obj/Debug/net6.0/Chess.GamePlay.csproj.AssemblyReference.cache
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.GamePlay/obj/Debug/net6.0/Chess.GamePlay.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.GamePlay/obj/Debug/net6.0/Chess.GamePlay.AssemblyInfoInputs.cache
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.GamePlay/obj/Debug/net6.0/Chess.GamePlay.AssemblyInfo.cs
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.GamePlay/obj/Debug/net6.0/Chess.GamePlay.csproj.CoreCompileInputs.cache
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.GamePlay/obj/Debug/net6.0/Chess.GamePlay.dll
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.GamePlay/obj/Debug/net6.0/refint/Chess.GamePlay.dll
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.GamePlay/obj/Debug/net6.0/Chess.GamePlay.pdb
+/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.GamePlay/obj/Debug/net6.0/ref/Chess.GamePlay.dll

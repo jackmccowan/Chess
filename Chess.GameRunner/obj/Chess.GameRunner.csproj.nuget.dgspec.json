@@ -1,0 +1,192 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.GameRunner/Chess.GameRunner.csproj": {}
+  },
+  "projects": {
+    "/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.GamePlay/Chess.GamePlay.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.GamePlay/Chess.GamePlay.csproj",
+        "projectName": "Chess.GamePlay",
+        "projectPath": "/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.GamePlay/Chess.GamePlay.csproj",
+        "packagesPath": "/Users/jackmccowan/.nuget/packages/",
+        "outputPath": "/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.GamePlay/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jackmccowan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.GameRunner/Chess.GameRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.GameRunner/Chess.GameRunner.csproj",
+        "projectName": "Chess.GameRunner",
+        "projectPath": "/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.GameRunner/Chess.GameRunner.csproj",
+        "packagesPath": "/Users/jackmccowan/.nuget/packages/",
+        "outputPath": "/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.GameRunner/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jackmccowan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.GamePlay/Chess.GamePlay.csproj": {
+                "projectPath": "/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.GamePlay/Chess.GamePlay.csproj"
+              },
+              "/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.Players/Chess.Players.csproj": {
+                "projectPath": "/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.Players/Chess.Players.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.Players/Chess.Players.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.Players/Chess.Players.csproj",
+        "projectName": "Chess.Players",
+        "projectPath": "/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.Players/Chess.Players.csproj",
+        "packagesPath": "/Users/jackmccowan/.nuget/packages/",
+        "outputPath": "/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.Players/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jackmccowan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.GamePlay/Chess.GamePlay.csproj": {
+                "projectPath": "/Users/jackmccowan/Downloads/EarnAndLearnChess/Chess.GamePlay/Chess.GamePlay.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
